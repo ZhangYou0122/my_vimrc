@@ -1,1 +1,1 @@
-My personal ~/.vimrc
+My ~/.vimrc
