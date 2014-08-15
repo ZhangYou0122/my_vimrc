@@ -10,3 +10,8 @@ filetype indent on
 filetype on
 filetype plugin on
 imap jj <Esc>
+imap () ()<Left>
+imap [] []<Left>
+imap {} {}<Left>
+imap "" ""<Left>
+imap '' ''<Left>
