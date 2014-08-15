@@ -2,7 +2,6 @@ if has("syntax")
     syntax on
 endif
 
-set nu
 set ruler
 set autoindent
 filetype indent on
@@ -14,3 +13,4 @@ imap [] []<Left>
 imap {} {}<Left>
 imap "" ""<Left>
 imap '' ''<Left>
+imap <> <><Left>
